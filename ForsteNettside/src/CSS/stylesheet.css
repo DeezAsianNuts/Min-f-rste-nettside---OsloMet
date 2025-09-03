@@ -1,0 +1,17 @@
+body {
+    background-color: #34752e;
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+.liste {
+    color: yellow;
+}
+img {
+    width: 25%;
+    border: 10px inset darkblue;
+}
+ul {
+    color: darkgoldenrod;
+}
